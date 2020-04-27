@@ -20,5 +20,5 @@ We used plotly express to build an animated choropleth map that shows the number
 How might our data visualizations help county and state leadership or business owners in the US? What other data might we want to incorporate into an animated choropleth map to better understand the toll of the novel coronavirus in the United States?
 
 ## Additional Links
-1) Data Source: https://github.com/jhu-business-analytics/covid-19-case-python-data-analysis
-2) Tutorial: https://melanieshimano.gitbook.io/merging-data-and-plotly-visualizations/
+1) Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+2) Tutorial: https://melanieshimano.gitbook.io/covid-19-critical-trend-data-visualizations/
