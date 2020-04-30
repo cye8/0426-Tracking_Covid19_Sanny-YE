@@ -11,7 +11,7 @@ How can we visualize and better understand the overall toll of the COVID-19 pand
 Which data and metrics can we use to answer our question? 
 
 ## Data Analysis
-First, we used mapbox to make a bubble map of cumulative confirmed COVID-19 cases in US counties, where the radius of the bubble corresponds to the number of cumulative confirmed COVID-19 cases in US counties.
+First, we used mapbox to make a bubble map of cumulative confirmed COVID-19 cases in US counties, where the radius of the bubble corresponds to the number of cumulative confirmed COVID-19 cases in US counties as of April 14, 2020.
 
 ![](Bubble.png)
 
