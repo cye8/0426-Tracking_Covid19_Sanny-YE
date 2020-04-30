@@ -15,6 +15,8 @@ We used plotly express to build an animated choropleth map that shows the number
 
 ![](Heatmap.png)
 
+Next, we built a choropleth map to showcase trends and regional differences in the density of cumulated confirmed COVID-19 cases in each US county since January 2020. 
+
 ![](Spread.gif)
 
 ## Conclusion
