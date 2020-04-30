@@ -15,16 +15,16 @@ First, we used mapbox to make a bubble map of cumulative confirmed COVID-19 case
 
 ![](Bubble.png)
 
-We then used plotly express to build an animated choropleth map that shows the number of cumulative confirmed COVID-19 cases per 1,000 residents in US counties on April 14, 2020.
+Next, we used plotly express to build an animated choropleth map that shows the number of cumulative confirmed COVID-19 cases per 1,000 residents in US counties on April 14, 2020.
 
 ![](Heatmap.png)
 
-Next, we built a choropleth map to showcase trends and regional differences in the density of cumulated confirmed COVID-19 cases in each US county since January 2020. 
+Last but not least, we built a choropleth map to showcase trends and regional differences in the density of cumulated confirmed COVID-19 cases in each US county since January 2020. 
 
 ![](Spread.gif)
 
 ## Conclusion
-How might our data visualizations help county and state leadership or business owners in the US? What other data might we want to incorporate into an animated choropleth map to better understand the toll of the novel coronavirus in the United States?
+According to our data visualizations, we saw that Covid-19 cases were first discovered in counties in Washington, and then slowly spread to states mainly on the west coast. In mid March, the number of confirmed cases started to increase rapidly across the country, and it seems that the rate of the spread of virus has not been slowing down to date. In order to better understand the toll of the novel coronavirus in the United States, we can also look at how each county react to the pandemic by incorporating change in numbers of medical supplies like hospital beds and masks into an animated choropleth map.
 
 ## Additional Links
 1) Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
