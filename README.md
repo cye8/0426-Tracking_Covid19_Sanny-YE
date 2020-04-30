@@ -11,7 +11,11 @@ How can we visualize and better understand the overall toll of the COVID-19 pand
 Which data and metrics can we use to answer our question? 
 
 ## Data Analysis
-We used plotly express to build an animated choropleth map that shows the number of cumulative confirmed COVID-19 cases per 1,000 residents in US counties.
+First, we used mapbox to make a bubble map of cumulative confirmed COVID-19 cases in US counties, where the radius of the bubble corresponds to the number of cumulative confirmed COVID-19 cases in US counties.
+
+![](Bubble.png)
+
+We then used plotly express to build an animated choropleth map that shows the number of cumulative confirmed COVID-19 cases per 1,000 residents in US counties on April 14, 2020.
 
 ![](Heatmap.png)
 
